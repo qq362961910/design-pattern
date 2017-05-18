@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>design-patern-demo</artifactId>
+    <artifactId>design-pattern-entry</artifactId>
     <packaging>jar</packaging>
 
 </project>

@@ -9,9 +9,18 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>design-patern-demo</module>
-        <module>design-pattern-entiry</module>
+        <module>design-pattern-demo</module>
+        <module>design-pattern-entry</module>
     </modules>
 
 
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>study</groupId>
+                <artifactId>design-pattern-entry</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 </project>
