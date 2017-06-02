@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>design-pattern-demo</module>
-        <module>design-pattern-entry</module>
+        <module>design-pattern-entity</module>
     </modules>
 
 
@@ -18,7 +18,7 @@
         <dependencies>
             <dependency>
                 <groupId>study</groupId>
-                <artifactId>design-pattern-entry</artifactId>
+                <artifactId>design-pattern-entity</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
         </dependencies>

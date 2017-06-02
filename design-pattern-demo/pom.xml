@@ -20,7 +20,7 @@
     <dependencies>
         <dependency>
             <groupId>study</groupId>
-            <artifactId>design-pattern-entry</artifactId>
+            <artifactId>design-pattern-entity</artifactId>
         </dependency>
     </dependencies>
 

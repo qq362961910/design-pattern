@@ -6,7 +6,7 @@ package com.jy.designpattern.entity;
 public class Cat extends AbstractAnimal {
 
     public void shout() {
-        System.out.println("miao miao");
+        System.out.println("miao miao!");
     }
 
 }
