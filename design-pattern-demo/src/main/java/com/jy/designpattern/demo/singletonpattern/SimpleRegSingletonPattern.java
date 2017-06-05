@@ -3,6 +3,9 @@ package com.jy.designpattern.demo.singletonpattern;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 登记式单例模式
+ * */
 public class SimpleRegSingletonPattern {
     public static void main(String[] args) {
         System.out.println(RegSingleton.getInstance(null));
